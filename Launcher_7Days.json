@@ -5,7 +5,7 @@
 	"LauncherVersion": "0.02a",
 	"UpdateGameURL": "http://google.com/",
 	"GameVersion": "3.3.6",
-	"GameExe": "Hurtworld.exe",
+	"GameExe": "HurtworldClient.exe",
 	"Eac": "1",
 	"RegFile": "0",
 	"RegPath": "\\Software\\LumaEmu\\AppID\\393420\\",
