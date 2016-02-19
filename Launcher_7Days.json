@@ -5,6 +5,7 @@
 	"LauncherVersion": "0.02a",
 	"UpdateGameURL": "http://google.com/",
 	"GameVersion": "3.3.6",
+	"GameProcess": "Hurtworld.exe",
 	"GameExe": "HurtworldClient.exe",
 	"Eac": "1",
 	"RegFile": "0",
