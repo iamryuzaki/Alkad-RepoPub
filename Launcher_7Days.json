@@ -1,7 +1,7 @@
 {
-    "Title": "Launcher",
-    "LauncherVersion": "0.02a",
-    "GameVersion": "0.3.3.2",
+	"Title": "Launcher",
+	"LauncherVersion": "0.02a",
+	"GameVersion": "0.3.3.2",
 	"GameExe": "Hurtworld.exe",
 	"Eac": "1",
 	"RegFile": "0",
@@ -37,6 +37,6 @@
 		"UnlockDLC": "00000000",
 		"UseCacheFiles": "00000000",
 		"WriteMinidumps": "00000001"
-
+	
 	}
 }
