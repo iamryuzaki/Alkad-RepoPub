@@ -1,6 +1,9 @@
 {
 	"Title": "Launcher",
+	"MainURL": "http://google.com/",
+	"UpdateLauncherURL": "http://google.com/",
 	"LauncherVersion": "0.02a",
+	"UpdateGameURL": "http://google.com/",
 	"GameVersion": "0.3.3.2",
 	"GameExe": "Hurtworld.exe",
 	"Eac": "1",
