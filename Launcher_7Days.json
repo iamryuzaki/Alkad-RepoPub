@@ -8,6 +8,7 @@
 	"GameProcess": "HurtworldClient.exe",
 	"GameExe": "Hurtworld.exe",
 	"Eac": "1",
+	"EacCloseForTime": "30",
 	"RegFile": "0",
 	"RegPath": "\\Software\\LumaEmu\\AppID\\393420\\",
 	"RegData": {
