@@ -1,10 +1,10 @@
 {
 	"Title": "Hurtworld Launcher",
 	"MainURL": "http://expshop.alkad.org/launcher_hurtworld/news2.html",
-	"UpdateLauncherURL": "http://google.com/",
+	"UpdateLauncherURL": "http://forum.alkad.org/index.php?threads/1214/",
 	"LauncherVersion": "0.02a",
-	"UpdateGameURL": "http://google.com/",
-	"GameVersion": "0.3.4.0 (1017296)",
+	"UpdateGameURL": "http://forum.alkad.org/index.php?threads/1214/",
+	"GameVersion": "0.3.4.2 (1030184)",
 	"GameProcess": "HurtworldClient.exe",
 	"GameExe": "Hurtworld.exe",
 	"Eac": "1",
