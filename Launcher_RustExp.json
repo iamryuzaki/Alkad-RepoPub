@@ -8,7 +8,7 @@
 	"GameProcess": "RustClient.exe",
 	"GameExe": "Rust.exe",
 	"Eac": "1",
-	"EacCloseForTime": "300",
+	"EacCloseForTime": "180",
 	"RegFile": "0",
 	"RegPath": "\\Software\\LumaEmu\\AppID\\252490\\",
 	"RegData": {
