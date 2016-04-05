@@ -27,7 +27,7 @@
 		"LoadLumaCEG": "00000000",
 		"LogFile": "00000001",
 		"LumaEmuClientDll": "steamclient.dll",
-		"LumaEmuClientDll64": "RustClient_Data/steamclient64.dll",
+		"LumaEmuClientDll64": "steamclient64.dll",
 		"MasterServer": "00000000",
 		"Offline": "00000000",
 		"OpenNameChanger": "00000000",
