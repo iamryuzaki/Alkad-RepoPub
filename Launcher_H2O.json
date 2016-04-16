@@ -6,7 +6,7 @@
 	"UpdateGameURL": "http://forum.alkad.org/threads/1293/",
 	"GameVersion": "0.01.67",
 	"GameProcess": "",
-	"GameExe": "GameData.dat",
+	"GameExe": "",
 	"Eac": "0",
 	"EacCloseForTime": "60",
 	"RegFile": "0",
