@@ -6,7 +6,7 @@
 	"UpdateGameURL": "http://forum.alkad.org/threads/1365/",
 	"GameVersion": "1372b (1112295)",
 	"GameProcess": "RustClient.exe",
-	"GameExe": "GameData.dll",
+	"GameExe": "GameData.dat",
 	"Eac": "0",
 	"EacCloseForTime": "180",
 	"RegFile": "0",
