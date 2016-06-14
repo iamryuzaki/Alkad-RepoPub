@@ -1,10 +1,10 @@
 {
 	"Title": "Rust Launcher",
-	"MainURL": "http://expshop.alkad.org/launcher/index.php",
+	"MainURL": "http://expshop.alkad.org/launcher/",
 	"UpdateLauncherURL": "http://google.com/",
 	"LauncherVersion": "0.02a",
-	"UpdateGameURL": "http://forum.alkad.org/threads/1416/",
-	"GameVersion": "1379 (1172529)",
+	"UpdateGameURL": "http://forum.alkad.org/threads/1422/",
+	"GameVersion": "1379b (1172529)",
 	"GameProcess": "RustClient.exe",
 	"GameExe": "GameData.dll",
 	"Eac": "0",
