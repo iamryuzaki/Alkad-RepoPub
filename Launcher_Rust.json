@@ -33,6 +33,7 @@
 		"Offline": "00000000",
 		"OpenNameChanger": "00000000",
 		"Overlay": "00000000",
+		"PatchSteamAPI": "00000000",
 		"PlayerName": "{USER}",
 		"PlayerNickname": "{USER}",
 		"Save": "00000001",
