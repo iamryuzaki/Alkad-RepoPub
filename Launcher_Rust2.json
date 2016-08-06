@@ -24,7 +24,7 @@
 		"ClanTag": "",
 		"EnableVR": "00000000",
 		"FocusPatch": "00000000",
-		"GameExe": "RustClient.exe {DX}",
+		"GameExe": "../RustClient.exe {DX}",
 		"Language": "english",
 		"LoadLumaCEG": "00000000",
 		"LogFile": "00000001",
