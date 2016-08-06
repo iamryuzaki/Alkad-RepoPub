@@ -6,7 +6,7 @@
 	"UpdateGameURL": "http://forum.alkad.org/threads/1528/",
 	"GameVersion": "1487 (1263302)",
 	"GameProcess": "RustClient.exe",
-	"GameExe": "../LauncherL.dll",
+	"GameExe": "../Launcher.dll",
 	"SteamLoaderExe": "../PlayRust.exe",
 	"Eac": "0",
 	"EacCloseForTime": "180",
