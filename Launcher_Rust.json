@@ -7,7 +7,7 @@
 	"GameVersion": "1488 (1275164)",
 	"GameProcess": "RustClient.exe",
 	"GameExe": "LauncherL.dll",
-	"SteamLoaderExe": "PlayRust.exe",
+	"SteamLoaderExe": "PlayRust.exe -i_tormaz",
 	"Eac": "0",
 	"EacCloseForTime": "180",
 	"RegFile": "0",
