@@ -8,6 +8,7 @@
 	"GameVersion": "0.3.6.7 (1282048)",
 	"GameProcess": "HurtworldClient.exe",
 	"GameExe": "Hurtworld.exe",
+	"SteamLoaderExe": "PlayGame.exe",
 	"Eac": "1",
 	"EacCloseForTime": "180",
 	"RegFile": "0",
