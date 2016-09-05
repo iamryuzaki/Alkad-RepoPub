@@ -7,5 +7,6 @@
 	"GameVersion": "0.01.70",
 	"GameProcess": "H2o",
 	"GameID": "377140",
-	"GameExe": "/launch_h2o.exe"
+	"GameExe": "/launch_h2o.exe",
+	"RegFile": "0"
 }
