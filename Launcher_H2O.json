@@ -6,7 +6,8 @@
 	"UpdateGameURL": "http://forum.alkad.org/threads/1310/",
 	"GameVersion": "0.01.77",
 	"GameProcess": "H2o",
-	"GameExe": "./launch_h2o.exe",
+	"GameID": "377140",
+	"GameExe": "./launch_h2o.exe"
 	"RegFile": "0",
 	"RegPath": "\\Software\\LumaEmu\\AppID\\377140\\",
 	"RegData": {
