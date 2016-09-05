@@ -7,7 +7,7 @@
 	"GameVersion": "0.01.77",
 	"GameProcess": "H2o",
 	"GameID": "377140",
-	"GameExe": "./launch_h2o.exe"
+	"GameExe": "./launch_h2o.exe",
 	"RegFile": "0",
 	"RegPath": "\\Software\\LumaEmu\\AppID\\377140\\",
 	"RegData": {
