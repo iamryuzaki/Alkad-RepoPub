@@ -5,7 +5,7 @@
 	"LauncherVersion": "0.02a",
 	"UpdateGameURL": "http://forum.alkad.org/threads/1310/",
 	"GameVersion": "0.01.77",
-	"GameProcess": "H2o",
+	"GameProcess": "H2o.exe",
 	"GameID": "377140",
 	"GameExe": "./launch_h2o.exe",
 	"RegFile": "0",
