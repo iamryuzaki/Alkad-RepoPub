@@ -13,7 +13,8 @@
 	"EacCloseForTime": "180",
 	"RegFile": "0",
 	"RegPath": "\\Software\\LumaEmu\\AppID\\393420\\",
-	"RegData": {
+"RegData": {
+		"AppIDSetByLauncher": "00000000",
 		"BlockLumaEmu": "00000000",
 		"BlockOldLumaEmu": "00000001",
 		"BlockSmartSteamEmu": "00000001",
@@ -44,6 +45,5 @@
 		"UnlockDLC": "00000000",
 		"UseCacheFiles": "00000000",
 		"WriteMinidumps": "00000001"
-	
 	}
 }
