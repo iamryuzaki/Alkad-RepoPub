@@ -1,7 +1,7 @@
 {
 	"Title": "Hurtworld Launcher",
 	"UpdateFiles": "http://hurtshop.alkad.org/Updater/",
-	"MainURL": "http://hurtshop.alkad.org/launcher_hurtworld/news2.html",
+	"MainURL": "http://lhurt.alkad.org:8080/news2.html",
 	"UpdateLauncherURL": "",
 	"LauncherVersion": "0.02a",
 	"UpdateGameURL": "http://forum.alkad.org/index.php?threads/1656/",
