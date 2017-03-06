@@ -7,4 +7,9 @@
 	"GameProcess": "Blackwake.exe",
 	"GameExe": "./Blackwake.exe", 
 	"GameID": "480", 
+	"RegFile": "0",
+	"RegPath": "\\Software\\LumaEmu\\AppID\\252490\\",
+	"RegData": {
+		"LumaEmu": "00000000"
+	}
 }
