@@ -1,0 +1,9 @@
+{
+	"Title": "Blackwake Launcher",
+	"MainURL": "https://expshop.alkad.org/launcher/",
+	"UpdateGameURL": "http://forum.alkad.org/threads/1804/",
+	"GameVersion": "1969 (1666673)",
+	"GameProcess": "Blackwake.exe",
+	"GameExe": "./Blackwake.exe", 
+	"GameID": "480", 
+}
