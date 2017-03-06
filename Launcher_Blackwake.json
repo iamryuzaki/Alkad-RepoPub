@@ -1,6 +1,7 @@
 {
 	"Title": "Blackwake Launcher",
 	"MainURL": "https://expshop.alkad.org/launcher/",
+	"UpdateFiles": "http://hurtshop.alkad.org/Updater/",
 	"UpdateGameURL": "http://forum.alkad.org/threads/1804/",
 	"GameVersion": "1969 (1666673)",
 	"GameProcess": "Blackwake.exe",
