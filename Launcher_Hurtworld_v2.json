@@ -12,7 +12,7 @@
 	"Eac": "0",
 	"EacCloseForTime": "180",
 	"RegFile": "1",
-	"RegPath": "\LumaEmu.ini",
+	"RegPath": "LumaEmu.ini",
 "RegData": {
 		"AppIDSetByLauncher": "00000000",
 		"BlockLumaEmu": "00000000",
