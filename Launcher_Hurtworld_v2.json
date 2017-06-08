@@ -38,7 +38,7 @@
 		"PlayerName": "{USER}",
 		"PlayerNickname": "{USER}",
 		"Save": "00000001",
-		"SaveInProgramData": "00000000",
+		"SaveInCustomPath": "00000000",
 		"UnlockDLC": "00000000",
 		"UseCacheFiles": "00000000",
 		"WriteMinidumps": "00000001"
