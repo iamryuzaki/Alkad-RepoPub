@@ -14,7 +14,7 @@
 	"RegFile": "0",
 	"RegPath": "\\Software\\LumaEmu\\AppID\\393420\\",
 "RegData": {
-		"AppIDSetByLauncher": "000600cc",
+		"AppIDSetByLauncher": "00000000",
 		"BlockLumaEmu": "00000000",
 		"BlockSmartSteamEmu": "00000000",
 		"BlockSteam3": "00000001",
