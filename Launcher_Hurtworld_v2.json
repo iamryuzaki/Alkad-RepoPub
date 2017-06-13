@@ -1,11 +1,11 @@
 {
 	"Title": "Hurtworld Experimental Launcher",
 	"UpdateFiles": "http://hurtshop.alkad.org/Updater_v2/",
-	"MainURL": "http://lhurt.alkad.org/index.php",
+	"MainURL": "http://lhurt.alkad.org/v2/",
 	"UpdateLauncherURL": "",
 	"LauncherVersion": "0.02a",
 	"UpdateGameURL": "http://forum.alkad.org/index.php?threads/1862/",
-	"GameVersion": "0.4.0.5 (1873619)",
+	"GameVersion": "0.4.0.7 (1881197)",
 	"GameProcess": "HurtworldClient.exe",
 	"GameExe": "GameData.dll",
 	"SteamLoaderExe": "PlayHurtworld.exe",
