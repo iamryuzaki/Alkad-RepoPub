@@ -4,7 +4,7 @@
 	"UpdateGameURL": "http://forum.alkad.org/threads/1946/",
 	"GameVersion": "2000 (1975514)",
 	"GameProcess": "RustClient.exe",
-	"GameExe": "./Rust.exe", 
+	"GameExe": "./RustClient.exe", 
 	"GameID": "480", 
 	"RegFile": "0",
 	"RegPath": "\\Software\\LumaEmu\\AppID\\252490\\",
