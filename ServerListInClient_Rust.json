@@ -1,10 +1,10 @@
 {
   "Home": [
-    { "hostname": "test", "ip": "127.0.0.1", "port": 28015, "map": "Barren", "players": 1, "maxplayers": 10, "category": "" },
-    { "hostname": "test2", "ip": "127.0.0.1", "port": 28016, "map": "Barren", "players": 9, "maxplayers": 10, "category": "" }
+    { "hostname": "test", "ip": "127.0.0.1", "port": 28015, "map": "Barren", "players": 1, "maxplayers": 10, "description": "", "url": "", "image": "", "category": "" },
+    { "hostname": "test2", "ip": "127.0.0.1", "port": 28016, "map": "Barren", "players": 9, "maxplayers": 10, "description": "", "url": "", "image": "", "category": "" }
   ],
   "ServerList": [
-    { "hostname": "test", "ip": "127.0.0.1", "port": 28015, "map": "Barren", "players": 1, "maxplayers": 10, "category": "Official" },
-    { "hostname": "test2", "ip": "127.0.0.1", "port": 28016, "map": "Barren", "players": 9, "maxplayers": 10, "category": "Official" }
+    { "hostname": "test", "ip": "127.0.0.1", "port": 28015, "map": "Barren", "players": 1, "maxplayers": 10, "description": "", "url": "", "image": "", "category": "Official" },
+    { "hostname": "test2", "ip": "127.0.0.1", "port": 28016, "map": "Barren", "players": 9, "maxplayers": 10, "description": "", "url": "", "image": "", "category": "Official" }
   ]
 }
