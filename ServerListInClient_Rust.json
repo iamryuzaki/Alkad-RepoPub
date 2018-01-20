@@ -1,6 +1,7 @@
 {
   "Home": [
-  
+    { "hostname": "test", "ip": "127.0.0.1", "port": 28015, "map": "Barren", "players": 1, "maxplayers": 10 },
+    { "hostname": "test2", "ip": "127.0.0.1", "port": 28016, "map": "Barren", "players": 9, "maxplayers": 10 }
   ],
   "ServerList": [
     { "hostname": "test", "ip": "127.0.0.1", "port": 28015, "map": "Barren", "players": 1, "maxplayers": 10 },
