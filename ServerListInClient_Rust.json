@@ -4,7 +4,7 @@
     { "hostname": "test2", "ip": "127.0.0.1", "port": 28016, "map": "Barren", "players": 9, "maxplayers": 10, "description": "", "url": "", "image": "", "category": "" }
   ],
   "ServerList": [
-    { "hostname": "test", "ip": "127.0.0.1", "port": 28015, "map": "Barren", "players": 1, "maxplayers": 10, "description": "", "url": "", "image": "", "category": "Official" },
+    { "hostname": "test", "ip": "127.0.0.1", "port": 28015, "map": "Barren", "players": 1, "maxplayers": 10, "description": "This is an official server owned and operated by Facepunch. /n /n People are free to speak whatever", "url": "http://vk.com", "image": "http://files.facepunch.com/garry/2015/August/27/serverlogo.png", "category": "Official" },
     { "hostname": "test2", "ip": "127.0.0.1", "port": 28016, "map": "Barren", "players": 9, "maxplayers": 10, "description": "", "url": "", "image": "", "category": "Official" }
   ]
 }
