@@ -1,7 +1,7 @@
 {
 	"Title": "PixARK Launcher",
 	"MainURL": "https://expshop.alkad.org/launcher/",
-	"UpdateGameURL": "https://forum.alkad.org/threads/2218/",
+	"UpdateGameURL": "https://www.whoishostingthis.com/tools/user-agent/",
 	"GameVersion": "2065 (2644729)",
 	"GameProcess": "PixARK.exe",
 	"GameExe": "./ShooterGame/Binaries/Win64/PixARK.exe"
