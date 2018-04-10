@@ -1,14 +1,8 @@
 {
 	"Title": "Rust Launcher",
 	"MainURL": "https://expshop.alkad.org/launcher/",
-	"UpdateGameURL": "https://forum.alkad.org/threads/2228/",
-	"GameVersion": "2078 (2663947)",
+	"UpdateGameURL": "https://forum.alkad.org/threads/2231/",
+	"GameVersion": "2079 (2673178)",
 	"GameProcess": "RustClient.exe",
 	"GameExe": "./RustClient.exe", 
-	"GameID": "480", 
-	"RegFile": "0",
-	"RegPath": "\\Software\\LumaEmu\\AppID\\252490\\",
-	"RegData": {
-		"LumaEmu": "00000000"
-	}
 }
