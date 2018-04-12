@@ -2,7 +2,7 @@
 	"Title": "PixARK Launcher",
 	"MainURL": "https://pixark.gamepedia.com/Pixark",
 	"UpdateGameURL": "https://forum.alkad.org/",
-	"GameVersion": "1.7 (0.1.0.153)",
+	"GameVersion": "1.8 (0.1.0.159)",
 	"GameProcess": "PixARK.exe",
 	"GameExe": "./ShooterGame/Binaries/Win64/PixARK.exe"
 }
