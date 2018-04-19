@@ -1,8 +1,8 @@
 {
 	"Title": "PixARK Launcher",
 	"MainURL": "https://kosiaknet.github.io/pixark.html",
-	"UpdateGameURL": "https://forum.alkad.org/",
-	"GameVersion": "1.8 (0.1.0.159)",
+	"UpdateGameURL": "https://forum.alkad.org/threads/2242/",
+	"GameVersion": "1.9 (0.1.0.162)",
 	"GameProcess": "PixARK.exe",
 	"GameExe": "./ShooterGame/Binaries/Win64/PixARK.exe"
 }
