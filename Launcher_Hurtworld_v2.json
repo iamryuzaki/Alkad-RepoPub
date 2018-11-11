@@ -1,7 +1,7 @@
 {
 	"Title": "Hurtworld Experimental Launcher",
 	"UpdateFiles": "http://hurtshop.alkad.org/Updater_v2/",
-	"MainURL": "https://www.whoishostingthis.com/tools/user-agent/",
+	"MainURL": "http://www.useragentstring.com/",
 	"UpdateLauncherURL": "",
 	"LauncherVersion": "0.02a",
 	"UpdateGameURL": "http://forum.alkad.org/threads/2457/",
