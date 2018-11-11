@@ -8,7 +8,7 @@
 	"GameVersion": "0.6.4.0 (3288068)",
 	"GameProcess": "HurtworldClient.exe",
 	"GameExe": "GameData.dll",
-	"SteamLoaderExe": "PlayHurtworld.exe",
+	"SteamLoaderExe": "Hurtworld.exe",
 	"Eac": "0",
 	"EacCloseForTime": "180",
 	"RegFile": "0",
