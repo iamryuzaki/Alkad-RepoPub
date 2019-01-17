@@ -2,7 +2,7 @@
 	"Title": "Hurtworld Legacy Launcher",
 	"UpdateFiles": "http://hurtshop.alkad.org/Updater/",
 	"MainURL": "http://lhurt.alkad.org/",
-	"UpdateGameURL": "https://forum.alkad.org/threads/2038/",
+	"UpdateGameURL": "https://forum.alkad.org/threads/%D0%9E%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-hurtworld-0-3-8-9.2038/",
 	"GameVersion": "0.3.8.9 (2155142)",
 	"GameProcess": "HurtworldClient.exe",
 	"GameExe": "./Hurtworld.exe",
