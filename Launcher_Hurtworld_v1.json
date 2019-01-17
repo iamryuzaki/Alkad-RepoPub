@@ -1,0 +1,9 @@
+{
+	"Title": "Hurtworld Legacy Launcher",
+	"UpdateFiles": "http://hurtshop.alkad.org/Updater/",
+	"MainURL": "http://lhurt.alkad.org/",
+	"UpdateGameURL": "http://forum.alkad.org/threads/2038/",
+	"GameVersion": "0.3.8.9 (2155142)",
+	"GameProcess": "HurtworldClient.exe",
+	"GameExe": "./Hurtworld.exe",
+}
