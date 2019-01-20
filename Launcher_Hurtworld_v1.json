@@ -3,7 +3,7 @@
 	"UpdateFiles": "http://hurtshop.alkad.org/Updater/",
 	"MainURL": "http://lhurt.alkad.org/",
 	"UpdateGameURL": "https://forum.alkad.org/threads/2038/",
-	"GameVersion": "0.3.8.9 (2155142)",
+	"GameVersion": "0.3.8.9 (3466470)",
 	"GameProcess": "HurtworldClient.exe",
 	"GameExe": "./Hurtworld.exe",
 	"GameWer": "0"
