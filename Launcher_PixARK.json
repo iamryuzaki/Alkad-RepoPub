@@ -1,8 +1,8 @@
 {
 	"Title": "PixARK Launcher",
 	"MainURL": "https://expshop.alkad.org/launcher_hurtworld/pixark.html",
-	"UpdateGameURL": "https://forum.alkad.org/threads/2562/",
-	"GameVersion": "1.41 (0.1.0.341)",
+	"UpdateGameURL": "https://forum.alkad.org/threads/2582/",
+	"GameVersion": "1.42 (0.1.0.342)",
 	"GameProcess": "PixARK.exe",
 	"GameExe": "./ShooterGame/Binaries/Win64/PixARK.exe"
 }
