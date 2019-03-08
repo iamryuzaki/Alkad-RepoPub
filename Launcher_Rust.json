@@ -1,8 +1,8 @@
 {
 	"Title": "Rust Launcher",
 	"MainURL": "https://expshop.alkad.org/Launcher2/",
-	"UpdateGameURL": "https://forum.alkad.org/threads/2558/",
-	"GameVersion": "2151 (3582984)",
+	"UpdateGameURL": "https://forum.alkad.org/threads/2609/",
+	"GameVersion": "2153 (3626608)",
 	"GameProcess": "RustClient.exe",
 	"GameExe": "./RustClient.exe", 
 }
