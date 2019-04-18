@@ -5,4 +5,5 @@
 	"GameVersion": "2161 (3729323)",
 	"GameProcess": "RustClient.exe",
 	"GameExe": "./RustClient.exe", 
+	"GameExeSG": "./RustClient_SmartGuard.exe"
 }
