@@ -4,6 +4,6 @@
 	"UpdateGameURL": "https://forum.alkad.org/threads/2657/",
 	"GameVersion": "2164 (3836267)",
 	"GameProcess": "RustClient.exe",
-	"GameExe": "/../../RustClient.exe", 
-	"GameExeSG": "/../../RustClient_SmartGuard.exe"
+	"GameExe": "/RustClient.exe", 
+	"GameExeSG": "/RustClient_SmartGuard.exe"
 }
