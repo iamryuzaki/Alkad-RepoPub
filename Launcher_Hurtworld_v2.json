@@ -1,7 +1,7 @@
 {
 	"Title": "Hurtworld V2 Launcher",
-	"UpdateFiles": "http://hurtshop.alkad.org/Updater_v2/",
-	"MainURL": "http://lhurt.alkad.org/v2/",
+	"UpdateFiles": "https://hurtshop.alkad.org/Updater_v2/",
+	"MainURL": "https://lhurt.alkad.org/v2/",
 	"UpdateGameURL": "https://forum.alkad.org/threads/3369/",
 	"GameVersion": "1.0.0.5 (4599054)",
 	"GameProcess": "HurtworldClient.exe",
